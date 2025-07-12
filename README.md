@@ -1,77 +1,91 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> ¡Hola! Soy Manuel Alejandro Prieto López
+<!-- Encabezado llamativo con banner (puedes reemplazar la imagen por una tuya personalizada) -->
+<img src="https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+GitHub+👨‍💻" alt="banner" />
 
-### 💻 Ingeniero Informático | 🎨 Desarrollador Frontend
+<h1 align="center">Hola, soy Manuel Alejandro Prieto López 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+3%2B+a%C3%B1os+de+experiencia;%F0%9F%9A%80+Especializado+en+Next.js+y+React;%F0%9F%8E%A8+Apasionado+por+UI%2FUX" alt="Typing SVG" />
+  👨‍💻 Ingeniero Informático | 🧠 Apasionado del Frontend | 🌎 Basado en Cuba 🇨🇺  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:manuel.alejandro.pl@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🚀 Sobre mí
+
+Soy **desarrollador frontend** con más de 3 años de experiencia creando productos digitales modernos, accesibles y centrados en el usuario. Me encanta combinar el diseño visual con el código, y siempre busco escribir componentes reutilizables, limpios y escalables.
+
+Actualmente me enfoco en tecnologías como **React, Next.js, Astro, TailwindCSS, Material UI y shadcn/ui**. He desarrollado desde sistemas administrativos hasta herramientas visuales para animación y generación de gráficos.
+
+---
+
+## 🛠️ Tecnologías que uso a diario
 
 <div align="center">
-  
-| **Frontend** | **Estilos** | **Herramientas** |
-|--------------|------------|----------------|
-| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn/ui-18181b?style=for-the-badge&logo=react&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,materialui,typescript,javascript,html,css,vite" />
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🧩 Proyectos destacados
 
-### 1. 🛒 E-commerce con Next.js
-[![Ver Demo](https://img.shields.io/badge/Ver_Demo-8A2BE2?style=for-the-badge)](https://example.com) [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github)](https://github.com)
+### 🎯 Sistema de Gestión de Plazas Universitarias
+> Plataforma para la asignación automatizada de plazas universitarias a partir del rendimiento académico de los aspirantes.
 
-🔹 Características principales:
-- Búsqueda en tiempo real con Algolia
-- Carrito persistente con Redux Toolkit
-- Checkout con Stripe Integration
-
-![E-commerce Preview](https://via.placeholder.com/800x400/111827/FFFFFF?text=E-commerce+Next.js)
-
----
-
-### 2. 🎨 Portfolio con Astro
-[![Ver Demo](https://img.shields.io/badge/Ver_Demo-8A2BE2?style=for-the-badge)](https://example.com) [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github)](https://github.com)
-
-🔹 Características principales:
-- 100% en estático (0kB JS)
-- Animaciones con GSAP
-- Modo oscuro/claro
-
-![Portfolio Preview](https://via.placeholder.com/800x400/111827/FFFFFF?text=Portfolio+Astro)
-
----
-
-## 📊 Mis Estadísticas
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE)
-
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuuser)
-
-</div>
+- 🔹 Asignación inteligente por fases
+- 🔹 Gestión de carreras, lugares y solicitudes
+- 🔹 UI intuitiva con React + Tailwind
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="tuusuario" />
+  <img src="https://via.placeholder.com/600x300.png?text=Demo+SIGACED" alt="demo proyecto" />
 </p>
 
+🔗 [`Ver repositorio`](https://github.com/tu-usuario/sigaced)
+
+---
+
+### 📐 Generador de Curvas Easing
+> Herramienta visual interactiva para generar curvas de animación personalizadas para usar en Three.js o CSS.
+
+- 🎨 UI intuitiva con drag & drop
+- ⚙️ Ejes dinámicos con limitación en puntos extremos
+- 📦 Exportación del resultado como JSON o curva SVG
+
 <p align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://via.placeholder.com/600x300.png?text=Demo+Easing+Curve+Generator" alt="demo easing" />
 </p>
+
+🔗 [`Ver repositorio`](https://github.com/tu-usuario/easing-curve-generator)
+
+---
+
+## 📈 Mis estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelprieto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelprieto&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelprieto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 ¿Hablamos?
+
+Si quieres colaborar, tienes alguna idea o simplemente te interesa mi trabajo, ¡no dudes en contactarme!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
+- 📧 manuel.alejandro.pl@gmail.com
+
+---
+
+<p align="center">
+  <em>“El código limpio siempre gana. Es más fácil de mantener, escalar y disfrutar.”</em> 🧼💡
+</p>
+
