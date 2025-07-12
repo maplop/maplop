@@ -1,92 +1,35 @@
-<!-- Encabezado llamativo con banner (puedes reemplazar la imagen por una tuya personalizada) -->
-<img src="https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+GitHub+👨‍💻" alt="banner" />
+# Manuel Alejandro Prieto López
 
-<h1 align="center">Hola, soy Manuel Alejandro Prieto López 👋</h1>
+**Ingeniero Informático | Desarrollador Frontend**
 
-<p align="center">
-  👨‍💻 Ingeniero Informático | 🧠 Apasionado del Frontend | 🌎 Basado en Cuba 🇨🇺  
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:manuel.alejandro.pl@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Más de 3 años desarrollando interfaces modernas, centradas en el usuario y orientadas al rendimiento. Me enfoco en crear soluciones visuales y funcionales usando herramientas actuales del ecosistema frontend.
 
 ---
 
-## 🚀 Sobre mí
+## 🔧 Tech Stack
 
-Soy **desarrollador frontend** con más de 3 años de experiencia creando productos digitales modernos, accesibles y centrados en el usuario. Me encanta combinar el diseño visual con el código, y siempre busco escribir componentes reutilizables, limpios y escalables.
-
-Actualmente me enfoco en tecnologías como **React, Next.js, Astro, TailwindCSS, Material UI y shadcn/ui**. He desarrollado desde sistemas administrativos hasta herramientas visuales para animación y generación de gráficos.
-
----
-
-## 🛠️ Tecnologías que uso a diario
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,materialui,typescript,javascript,html,css,vite" />
-</div>
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** React, Next.js, Astro
+- **Estilos:** TailwindCSS, Material UI, shadcn/ui
+- **Build Tools:** Vite, Webpack
 
 ---
 
-## 🧩 Proyectos destacados
+## 📌 Proyectos
 
-### 🎯 Sistema de Gestión de Plazas Universitarias
-> Plataforma para la asignación automatizada de plazas universitarias a partir del rendimiento académico de los aspirantes.
+### Sistema de Gestión de Plazas Universitarias
+Aplicación para automatizar la asignación de plazas educativas en universidades.
 
-- 🔹 Asignación inteligente por fases
-- 🔹 Gestión de carreras, lugares y solicitudes
-- 🔹 UI intuitiva con React + Tailwind
+🔗 [Repositorio](https://github.com/tu-usuario/sigaced)
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Demo+SIGACED" alt="demo proyecto" />
-</p>
+### Generador de Curvas de Easing
+Herramienta visual para generar curvas de animación personalizadas.
 
-🔗 [`Ver repositorio`](https://github.com/tu-usuario/sigaced)
+🔗 [Repositorio](https://github.com/tu-usuario/easing-curve-generator)
 
 ---
 
-### 📐 Generador de Curvas Easing
-> Herramienta visual interactiva para generar curvas de animación personalizadas para usar en Three.js o CSS.
+## 📫 Contacto
 
-- 🎨 UI intuitiva con drag & drop
-- ⚙️ Ejes dinámicos con limitación en puntos extremos
-- 📦 Exportación del resultado como JSON o curva SVG
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Demo+Easing+Curve+Generator" alt="demo easing" />
-</p>
-
-🔗 [`Ver repositorio`](https://github.com/tu-usuario/easing-curve-generator)
-
----
-
-## 📈 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelprieto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelprieto&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelprieto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 ¿Hablamos?
-
-Si quieres colaborar, tienes alguna idea o simplemente te interesa mi trabajo, ¡no dudes en contactarme!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- 📧 manuel.alejandro.pl@gmail.com
-
----
-
-<p align="center">
-  <em>“El código limpio siempre gana. Es más fácil de mantener, escalar y disfrutar.”</em> 🧼💡
-</p>
-
-
+- Email: manuel.alejandro.pl@gmail.com  
+- LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com/in/tu-linkedin)
