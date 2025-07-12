@@ -23,8 +23,8 @@ Soy desarrollador frontend con más de 3 años de experiencia, enfocado en crear
 
 ## 🌐 Conecta conmigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)  
-- 🌍 [Portafolio](https://tu-portafolio.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maplop)  
+- 🌍 [Portafolio](#)
 
 ---
 
