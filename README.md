@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner Manuel Alejandro Prieto López" style="width:100%; border-radius: 12px;"/>
+  <img src="./assets/banner.png" alt="Banner Manuel Alejandro Prieto López" style="width:100%;"/>
 </p>
 
 ## 🚀 Sobre mí
