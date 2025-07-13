@@ -1,8 +1,5 @@
-<h1 align="center">Manuel Alejandro Prieto López</h1>
-
 <p align="center">
-  👨‍💻 Desarrollador Frontend | 🎓 Ingeniero Informático<br/>
-  Transformando ideas en experiencias digitales limpias y modernas.
+  <img src="./assets/banner.png" alt="Banner Manuel Alejandro Prieto López" style="width:100%;"/>
 </p>
 
 ---
@@ -23,7 +20,7 @@ Soy desarrollador frontend con más de 3 años de experiencia. Me encanta crear 
 
 ## 🌐 Conecta conmigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maplop)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maplop)
 - 🌍 [Portafolio](#)
 
 ---
@@ -31,4 +28,3 @@ Soy desarrollador frontend con más de 3 años de experiencia. Me encanta crear 
 <p align="center">
   ✨ Siempre aprendiendo. Siempre construyendo.
 </p>
-
