@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-**Ingeniero Informático** y **desarrollador frontend** con más de **3 años de experiencia** creando **interfaces modernas**, **funcionales** y centradas en la **experiencia del usuario**. Me apasiona **transformar diseños** en **soluciones interactivas** que se sienten tan bien como se ven. Trabajo con tecnologías como **React**, **TypeScript** y **Tailwind CSS**, buscando siempre el equilibrio entre **estética**, **usabilidad** y **código limpio**. Creo en el **aprendizaje continuo** y en escribir cada línea de código pensando en el **impacto real** para el usuario final.
+Ingeniero Informático y **desarrollador frontend** con más de **3 años de experiencia** creando interfaces modernas, funcionales y centradas en la experiencia del usuario. Me apasiona transformar diseños en soluciones interactivas que se sienten tan bien como se ven. Trabajo con tecnologías como **React**, **TypeScript** y **Tailwind CSS**, buscando siempre el equilibrio entre **estética**, **usabilidad** y **código limpio**. Creo en el **aprendizaje continuo** y en escribir cada línea de código pensando en el impacto real para el usuario final.
 
 ---
 
