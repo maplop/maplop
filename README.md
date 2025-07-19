@@ -16,6 +16,33 @@ Soy desarrollador frontend con más de 3 años de experiencia. Me encanta crear 
 
 ---
 
+## Principales Proyectos
+
+<h2 style="text-align: center;">🚀 Principales Proyectos</h2>
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
+
+  <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <img src="https://www.squarity.app/logo192.png" alt="Squarity" style="width: 64px; height: 64px;">
+    <h3>Squarity</h3>
+    <p>Plataforma NFT con sistema de staking y visualización de activos.</p>
+    <p><strong>Tecnologías:</strong> Next.js, Material UI, Figma</p>
+    <a href="https://www.squarity.app" target="_blank">🔗 Ver proyecto</a>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <img src="https://poke-planet.netlify.app/icon-192.png" alt="Poke Planet" style="width: 64px; height: 64px;">
+    <h3>Poke Planet</h3>
+    <p>Explorador de Pokémon que consume la API de PokéAPI.</p>
+    <p><strong>Tecnologías:</strong> React, Tailwind CSS, API REST</p>
+    <a href="https://poke-planet.netlify.app" target="_blank">🔗 Ver proyecto</a>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.0
+
+
+---
+
 ## 🌐 Conecta conmigo
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maplop)
